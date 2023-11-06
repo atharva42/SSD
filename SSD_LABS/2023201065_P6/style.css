@@ -1,0 +1,36 @@
+.bg{
+    background-color: beige;
+}
+.forma{
+    position: relative;
+    text-align: center;
+}
+.h2-text{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 3.0ch;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tog{
+    text-align: center;
+}
+.forms{
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.but{
+    margin-left: 10%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    background-color: green;
+    color: whitesmoke;
+    box-shadow: none;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.buttons:hover{
+    background-color: aqua;
+}
